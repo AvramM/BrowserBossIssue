@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserBossIssue", "ConsoleApplication1\BrowserBossIssue.csproj", "{A8D6494B-3DBA-4959-9296-A1C4C31FB37D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserBossIssue", "BrowserBossIssue\BrowserBossIssue.csproj", "{A8D6494B-3DBA-4959-9296-A1C4C31FB37D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
